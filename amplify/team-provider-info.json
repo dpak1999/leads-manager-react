@@ -1,19 +1,19 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-leadsmanager-dev-04420-authRole",
-      "UnauthRoleArn": "arn:aws:iam::634277334736:role/amplify-leadsmanager-dev-04420-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::634277334736:role/amplify-leadsmanager-dev-04420-authRole",
+      "AuthRoleName": "amplify-leadsmanagerreact-dev-05400-authRole",
+      "UnauthRoleArn": "arn:aws:iam::634277334736:role/amplify-leadsmanagerreact-dev-05400-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::634277334736:role/amplify-leadsmanagerreact-dev-05400-authRole",
       "Region": "ap-south-1",
-      "DeploymentBucketName": "amplify-leadsmanager-dev-04420-deployment",
-      "UnauthRoleName": "amplify-leadsmanager-dev-04420-unauthRole",
-      "StackName": "amplify-leadsmanager-dev-04420",
-      "StackId": "arn:aws:cloudformation:ap-south-1:634277334736:stack/amplify-leadsmanager-dev-04420/429939c2-c1a7-11ec-832c-024ab770f36a",
-      "AmplifyAppId": "d24l06el6do7jy"
+      "DeploymentBucketName": "amplify-leadsmanagerreact-dev-05400-deployment",
+      "UnauthRoleName": "amplify-leadsmanagerreact-dev-05400-unauthRole",
+      "StackName": "amplify-leadsmanagerreact-dev-05400",
+      "StackId": "arn:aws:cloudformation:ap-south-1:634277334736:stack/amplify-leadsmanagerreact-dev-05400/9c8e22f0-c1a8-11ec-8234-0af549243c60",
+      "AmplifyAppId": "d5g5aj7c77m8n"
     },
     "categories": {
       "auth": {
-        "leadsmanager530bdc11530bdc11": {}
+        "leadsmanagerreact09077ea209077ea2": {}
       }
     }
   }

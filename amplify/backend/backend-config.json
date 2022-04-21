@@ -1,6 +1,6 @@
 {
   "auth": {
-    "leadsmanager530bdc11530bdc11": {
+    "leadsmanagerreact09077ea209077ea2": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
