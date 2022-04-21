@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "leadsmanagerreact",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/deepak/Developer/leads-manager-react/amplify/backend/api/leadsmanagerreact/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authleadsmanagerreact09077ea209077ea2"
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "API_KEY",
+        "expirationTime": 90,
+        "apiKeyExpirationDate": "2022-07-20T19:29:35.705Z",
+        "keyDescription": ""
+      },
+      {
+        "mode": "AWS_IAM"
+      }
+    ]
+  }
+}
