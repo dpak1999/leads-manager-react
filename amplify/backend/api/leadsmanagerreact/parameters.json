@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "leadsmanagerreact",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authleadsmanagerreact09077ea209077ea2",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

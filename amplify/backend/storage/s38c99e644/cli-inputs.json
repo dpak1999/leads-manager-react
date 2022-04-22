@@ -1,0 +1,14 @@
+{
+  "resourceName": "s38c99e644",
+  "policyUUID": "8c99e644",
+  "bucketName": "leadsmanagerreact8481bdecb98942c88641b1f272e9bd",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -16,7 +16,6 @@ function App() {
       <Button variant="contained" color="primary">
         Test button
       </Button>
-      <Typography color="warning.main">Test typography</Typography>
     </>
   );
 }
